@@ -1,0 +1,150 @@
+header {
+    background-color: yellow;
+    height: 80px;
+    color: navy;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+
+    body{
+        background-color: navy;
+        color: black;
+    }
+
+    body.darkmode {
+        background: rgb(57, 57, 57);
+        color: rgb(227, 227, 227);
+    }
+
+    .logo {
+        width: 2%;
+        height: 40%;
+        position:relative;
+        top: 15px;
+        left: 30px;
+    }
+    
+    .judul {
+        position: relative;
+        top: -40px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        text-align: center;
+    }
+    nav {
+        height: 30px;
+        position: relative;
+        top: -45px;
+        text-align: left;
+        background-color:blue;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    section {
+            width: 100%;
+            height: 500px;
+        }
+        .kiri {
+            width: 20%;
+            height: 100%;
+            
+            float: left;
+            top: -103.5%;
+            color: white;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+        .tengah {
+            width: 60%;
+            height: 100%;
+            
+            position: relative;
+            left: 20%;
+            color: white;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+        .gambartengah{
+            width: 25%;
+            height: width;
+            align-items: center;
+            position: relative;
+            color: white;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+        .beritathmb{
+            position: relative;
+            text-align: justify;
+            left: -30%;
+        }
+        .berita-rachel{
+            position: relative;
+            text-align: justify;
+            left: 150px;
+            top: -100px;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+        .berita-filthyfrank{
+            position: relative;
+            top: -150px;
+        }
+        .berita-wibu{
+            position: relative;
+            top: -280px;
+            left: 300px;
+        }
+        .rachel{
+            position: relative;
+            text-align: justify;
+        }
+        .biodata{
+            position: relative;
+            left: -30%;
+            color: white;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+        .biodata_text{
+            position: relative;
+            top: -80%;
+            padding-right: 7%;
+            padding-left: 34%;
+            text-align: justify;
+            color: white;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+        .kanan {
+            width: 20%;
+            height: 100%;
+            
+            float: right;
+            position: relative;
+            color: white;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+        .thumbnail {
+            width: 125px;
+            height: width;
+            align-items: center;
+            top: 20px;
+        }
+        footer {
+            background-color: yellow;
+            position: relative;
+            height: 100px;
+            clear: both;
+           color: navy;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+        .theme{
+            position: relative;
+            top: -125px; 
+            left: 90%;
+            border-radius: 50px;
+        }
+
+        #darkBtn{
+            border-radius: 10px;
+            background-color: grey;
+            color: white;
+        }
+
+        #lightBtn{
+            border-radius: 10px;
+            background-color: navy;
+            color: white;
+        }
